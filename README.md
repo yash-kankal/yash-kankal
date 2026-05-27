@@ -1,83 +1,81 @@
-<h1 align="center">Hey there 👋, I'm Yash Kankal</h1>
+<div align="center">
 
-<p align="center">
-  <b>iOS & Full Stack Engineer &nbsp;|&nbsp; Swift · SwiftUI · TypeScript · Node.js &nbsp;•&nbsp; Currently @ DriverAI</b>
-</p>
+# Yash Kankal
 
-<br/>
+**Full Stack Developer & Mobile Engineer**
 
-<p align="center">
-  <a href="https://linkedin.com/in/yashkankal">
-    <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yashamolkankal@outlook.com">
-    <img src="https://img.shields.io/badge/EMAIL-yashamolkankal%40outlook.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://yashkankal.site">
-    <img src="https://img.shields.io/badge/PORTFOLIO-yashkankal.site-FB923C?style=flat&logo=safari&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashkankal)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashamolkankal@outlook.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-fb923c?style=flat-square&logo=safari&logoColor=white)](https://yashkankal.com)
+
+</div>
 
 ---
 
-### 🛠 Tech Stack
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+Software engineer with 3+ years of experience building iOS apps, cross-platform mobile solutions, and full-stack web systems. Currently working at **DriverAI** on AR-guided navigation, real-time trading, and AI-powered features in Swift and SwiftUI.
 
 ---
 
-### 💼 Experience
+## 🛠 Skills
 
-**Software Engineer** · DriverAI, LLC *(Jan 2026 – Present · Tempe, AZ / Remote)*
-- Built iOS AR navigation app from scratch — floor-level overlays, turn-by-turn routing, real-time positioning with Swift Concurrency & MVVM
-- Integrated on-device AI/ML chatbot pipeline, reducing query resolution time by **~35%**
-- Owned WebSocket layer across iOS & Android — cut stale state by **~50%** and trade errors by **~40%**
-- Drove **27% reduction** in API response time via FastAPI + PostgreSQL with connection pooling & indexed tables
+**Languages:** Swift · Kotlin · TypeScript · JavaScript · Python · SQL · Java · Bash
 
-**iOS & Full Stack Developer Intern** · Pangian *(Jul 2025 – Aug 2025 · Remote)*
-- Built full iOS job portal app in SwiftUI from scratch — job discovery, application tracking, resume sync
-- Resume parsing pipeline (AWS S3 + Node.js) improved AI match relevance by **~30%**; Redis + Elasticsearch cut API latency by **34%**
+**iOS & Mobile:** SwiftUI · UIKit · Jetpack Compose · React Native · AVFoundation · MVVM · Swift Concurrency
 
-**Full Stack & Mobile Developer** · AppWelt Pvt. Ltd *(Oct 2021 – Jun 2023 · Nagpur, India)*
-- Delivered 6+ cross-platform apps with React Native covering 100% of iOS & Android targets
-- Built production iOS media player SDK (Swift, UIKit, AVFoundation) with HLS, PiP & offline downloads
+**Frontend:** React.js · Next.js · Tailwind CSS
+
+**Backend & APIs:** Node.js · Express.js · FastAPI · REST APIs · WebSockets · GraphQL · OAuth 2.0 · JWT · Prisma
+
+**Databases:** PostgreSQL · Redis · MongoDB · MySQL · Elasticsearch · AWS RDS
+
+**Cloud & DevOps:** AWS Lambda · S3 · ECS · EC2 · RDS · Kinesis · CloudFormation · App Runner · Docker · GitHub Actions · CodePipeline
+
+**Architecture:** Microservices · Event-Driven · Real-Time Systems · CI/CD · SOLID · Agile
 
 ---
 
-### 🚀 Projects
+## 💼 Experience
 
-| Project | Stack | Highlight |
+**Software Engineer — DriverAI, LLC** *(Jan 2026 – Present · Tempe, AZ / Remote)*
+- Built AR-guided indoor navigation iOS app from scratch in Swift & SwiftUI — 10+ screens, MVVM, Swift Concurrency
+- Integrated on-device AI/ML chatbot with full inference pipeline, cutting query resolution time by ~35%
+- Owned WebSocket implementation across iOS and Android — reduced stale state by ~50%, trade errors by ~40%
+- Drove 27% reduction in API response time via FastAPI endpoints, PostgreSQL optimisation, and connection pooling
+- Achieved consistent 60 fps across all screens using Instruments profiling and async/await concurrency
+
+**iOS & Full Stack Developer Intern — Pangian** *(Jul 2025 – Aug 2025 · Remote, USA)*
+- Built Pangian's iOS job portal from scratch — job discovery, application tracking, resume sync with MVVM
+- Engineered resume parsing pipeline (AWS S3 + Node.js) powering AI job recommendations — improved match relevance by ~30%
+- Reduced API latency by 34% via Redis caching and Elasticsearch indexing across 50K+ records
+- Implemented secure Keychain storage and JWT token management for session persistence
+
+**Full Stack & Mobile Developer — AppWelt Pvt. Ltd** *(Oct 2021 – Jun 2023 · Nagpur, India)*
+- Delivered 6+ cross-platform mobile apps in React Native with shared business logic and typed API layers
+- Built production iOS media player SDK in Swift, UIKit, AVFoundation supporting HLS, PiP, and offline downloads
+- Developed 3 full-stack web apps using React.js, Next.js, Node.js, reducing page load time by ~35%
+- Containerised services with Docker and deployed to AWS EC2/ECS — cut deployment time by ~30%
+
+---
+
+## 🚀 Projects
+
+| Project | Stack | Description |
 |---|---|---|
-| **SpendLens** | Swift, SwiftUI, Vision OCR, OpenAI API, SwiftData | Receipt scanning reduced manual entry by **~70%** |
-| **CuedUp iOS** | Swift, SwiftUI, AVFoundation, TMDB API, OpenAI | Mood-based AI recs across 500K+ titles |
-| **Video Sharing Platform** | Next.js, Node.js, AWS S3/Kinesis, Elasticsearch | Real-time streaming analytics, sub-second search |
-| **SnyderSpend** | SwiftUI, Firebase, AI Insights, Liquid Glass | AI-powered personal finance with auto-categorisation |
+| **DriverAI Navigation** | Swift · SwiftUI · FastAPI · PostgreSQL | AR indoor wayfinding with floor-level overlays, turn-by-turn routing, and real-time position updates |
+| **Pangian iOS App** | Swift · SwiftUI · Node.js · Elasticsearch | Full iOS job portal with AI-powered job recommendations and sub-100ms full-text search |
+| **iOS Media Player SDK** | Swift · UIKit · AVFoundation | Production SDK with HLS playback, Picture-in-Picture, and offline download support |
+| **Portfolio Site** | Next.js · TypeScript · Tailwind CSS | Vintage warm-palette portfolio with scroll-driven animations and AR-style interactions |
 
 ---
 
-### 📊 GitHub Stats
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-kankal&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-kankal&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
+**M.S. Information Technology** — Arizona State University *(2024 – 2026)*
+
+**B.E. Computer Science** — RTM Nagpur University *(2019 – 2023)*
 
 ---
 
-### 🎓 Education
-**MS Information Technology** · Arizona State University · GPA 3.6 *(2023–2025)*  
-**BE Information Technology** · Prof. Ram Meghe Institute · GPA 3.6 *(2019–2022)*
+<div align="center">
+<sub>Always building. Always shipping.</sub>
+</div>
