@@ -60,12 +60,20 @@
 
 ### 🚀 Projects
 
-| Project | Stack | Highlight |
+**Mobile**
+
+| Project | Platform | Stack | Description |
+|---|---|---|---|
+| **SnyderSpend** | iOS | SwiftUI · Firebase · Firestore · Liquid Glass | AI-powered personal finance app — auto-categorises transactions, surfaces spending insights, predicts end-of-month balances, and syncs in real time across devices |
+| **Snyder News** | Android | Kotlin · Jetpack Compose · MVVM · Hilt · Room · Retrofit · WorkManager · Paging 3 | Offline-first news aggregator with on-device NLP tagging, AI article summaries, background sync, and infinite scroll across 5 live categories |
+
+**Web**
+
+| Project | Stack | Description |
 |---|---|---|
-| **SpendLens** | Swift, SwiftUI, Vision OCR, OpenAI API, SwiftData | Receipt scanning reduced manual entry by **~70%** |
-| **CuedUp iOS** | Swift, SwiftUI, AVFoundation, TMDB API, OpenAI | Mood-based AI recs across 500K+ titles |
-| **Video Sharing Platform** | Next.js, Node.js, AWS S3/Kinesis, Elasticsearch | Real-time streaming analytics, sub-second search |
-| **SnyderSpend** | SwiftUI, Firebase, AI Insights, Liquid Glass | AI-powered personal finance with auto-categorisation |
+| **Video Sharing Platform** | TypeScript · Next.js · Node.js · PostgreSQL · AWS S3/Kinesis · Redis · Elasticsearch | Full-stack video platform with pre-signed S3 uploads supporting 100+ concurrent streams, real-time Kinesis analytics, and AI-powered mood-based suggestions |
+| **CuedUp — Your Movies Hub** | React.js · Vite · React Router · Tailwind CSS · TMDB API | IMDb alternative pulling live data across 8+ TMDB endpoints — zero backend, all state in URL params, ships tiny |
+| **AI Health Chatbot** | Next.js · TypeScript · Node.js · Express.js · PostgreSQL | Full-stack AI health assistant with calorie tracking, meal logging, recipe recommendations, and context-aware nutrition guidance |
 
 ---
 
