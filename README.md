@@ -1,22 +1,28 @@
-<div align="center">
+<h1 align="center">Hey there 👋, I'm Yash Kankal</h1>
 
-# Yash Kankal
+<p align="center">
+  <b>iOS & Full Stack Engineer &nbsp;|&nbsp; Swift · SwiftUI · TypeScript · Node.js &nbsp;•&nbsp; Currently @ DriverAI</b>
+</p>
 
-**Full Stack Developer & Mobile Engineer**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashkankal)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashamolkankal@outlook.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-fb923c?style=flat-square&logo=safari&logoColor=white)](https://yashkankal.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/yashkankal">
+    <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yashamolkankal@outlook.com">
+    <img src="https://img.shields.io/badge/EMAIL-yashamolkankal%40outlook.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://yashkankal.site">
+    <img src="https://img.shields.io/badge/PORTFOLIO-yashkankal.site-FB923C?style=flat&logo=safari&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-Software engineer with 3+ years of experience building iOS apps, cross-platform mobile solutions, and full-stack web systems. Currently working at **DriverAI** on AR-guided navigation, real-time trading, and AI-powered features in Swift and SwiftUI.
-
----
-
-## 🛠 Skills
+### 🛠 Tech Stack
 
 **Languages:** Swift · Kotlin · TypeScript · JavaScript · Python · SQL · Java · Bash
 
@@ -34,48 +40,36 @@ Software engineer with 3+ years of experience building iOS apps, cross-platform 
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-**Software Engineer — DriverAI, LLC** *(Jan 2026 – Present · Tempe, AZ / Remote)*
-- Built AR-guided indoor navigation iOS app from scratch in Swift & SwiftUI — 10+ screens, MVVM, Swift Concurrency
-- Integrated on-device AI/ML chatbot with full inference pipeline, cutting query resolution time by ~35%
-- Owned WebSocket implementation across iOS and Android — reduced stale state by ~50%, trade errors by ~40%
-- Drove 27% reduction in API response time via FastAPI endpoints, PostgreSQL optimisation, and connection pooling
-- Achieved consistent 60 fps across all screens using Instruments profiling and async/await concurrency
+**Software Engineer** · DriverAI, LLC *(Jan 2026 – Present · Tempe, AZ / Remote)*
+- Built iOS AR navigation app from scratch — floor-level overlays, turn-by-turn routing, real-time positioning with Swift Concurrency & MVVM
+- Integrated on-device AI/ML chatbot pipeline, reducing query resolution time by **~35%**
+- Owned WebSocket layer across iOS & Android — cut stale state by **~50%** and trade errors by **~40%**
+- Drove **27% reduction** in API response time via FastAPI + PostgreSQL with connection pooling & indexed tables
 
-**iOS & Full Stack Developer Intern — Pangian** *(Jul 2025 – Aug 2025 · Remote, USA)*
-- Built Pangian's iOS job portal from scratch — job discovery, application tracking, resume sync with MVVM
-- Engineered resume parsing pipeline (AWS S3 + Node.js) powering AI job recommendations — improved match relevance by ~30%
-- Reduced API latency by 34% via Redis caching and Elasticsearch indexing across 50K+ records
-- Implemented secure Keychain storage and JWT token management for session persistence
+**iOS & Full Stack Developer Intern** · Pangian *(Jul 2025 – Aug 2025 · Remote)*
+- Built full iOS job portal app in SwiftUI from scratch — job discovery, application tracking, resume sync
+- Resume parsing pipeline (AWS S3 + Node.js) improved AI match relevance by **~30%**; Redis + Elasticsearch cut API latency by **34%**
 
-**Full Stack & Mobile Developer — AppWelt Pvt. Ltd** *(Oct 2021 – Jun 2023 · Nagpur, India)*
-- Delivered 6+ cross-platform mobile apps in React Native with shared business logic and typed API layers
-- Built production iOS media player SDK in Swift, UIKit, AVFoundation supporting HLS, PiP, and offline downloads
-- Developed 3 full-stack web apps using React.js, Next.js, Node.js, reducing page load time by ~35%
-- Containerised services with Docker and deployed to AWS EC2/ECS — cut deployment time by ~30%
+**Full Stack & Mobile Developer** · AppWelt Pvt. Ltd *(Oct 2021 – Jun 2023 · Nagpur, India)*
+- Delivered 6+ cross-platform apps with React Native covering 100% of iOS & Android targets
+- Built production iOS media player SDK (Swift, UIKit, AVFoundation) with HLS, PiP & offline downloads
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-| Project | Stack | Description |
+| Project | Stack | Highlight |
 |---|---|---|
-| **DriverAI Navigation** | Swift · SwiftUI · FastAPI · PostgreSQL | AR indoor wayfinding with floor-level overlays, turn-by-turn routing, and real-time position updates |
-| **Pangian iOS App** | Swift · SwiftUI · Node.js · Elasticsearch | Full iOS job portal with AI-powered job recommendations and sub-100ms full-text search |
-| **iOS Media Player SDK** | Swift · UIKit · AVFoundation | Production SDK with HLS playback, Picture-in-Picture, and offline download support |
-| **Portfolio Site** | Next.js · TypeScript · Tailwind CSS | Vintage warm-palette portfolio with scroll-driven animations and AR-style interactions |
+| **SpendLens** | Swift, SwiftUI, Vision OCR, OpenAI API, SwiftData | Receipt scanning reduced manual entry by **~70%** |
+| **CuedUp iOS** | Swift, SwiftUI, AVFoundation, TMDB API, OpenAI | Mood-based AI recs across 500K+ titles |
+| **Video Sharing Platform** | Next.js, Node.js, AWS S3/Kinesis, Elasticsearch | Real-time streaming analytics, sub-second search |
+| **SnyderSpend** | SwiftUI, Firebase, AI Insights, Liquid Glass | AI-powered personal finance with auto-categorisation |
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
-**M.S. Information Technology** — Arizona State University *(2024 – 2026)*
-
-**B.E. Computer Science** — RTM Nagpur University *(2019 – 2023)*
-
----
-
-<div align="center">
-<sub>Always building. Always shipping.</sub>
-</div>
+**MS Information Technology** · Arizona State University · GPA 3.6 *(2023–2025)*  
+**BE Information Technology** · Prof. Ram Meghe Institute · GPA 3.6 *(2019–2022)*
